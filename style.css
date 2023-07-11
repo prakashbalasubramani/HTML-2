@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    padding: 5px 25px;
+}
+
+.nav div{
+    display: inline;
+    margin-right: 50px;
+}
+.nav{
+    background-color: white(196, 255, 230);
+}
+.part1{
+    background-color: black;
+    color: aliceblue;
+}
+.part2{
+    background-color:blue;
+    color: aliceblue;
+}
+.part3{
+    background-color:red;
+    color: aliceblue;
+}
+.part4{
+    background-color:black;
+    color: aliceblue;
+}
+.part5{
+    background-color:blue;
+    color: aliceblue;
+}
+.part6{
+    background-color:orangered;
+    color: aliceblue;
+}
